@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Start Home */
+.tital{
+    width: 99%;
+    height: 120px;
+    border: 5px red solid;
+    border-radius: 5px;
+    background-color: lightcyan;
+    position: fixed;
+}
+
+#bm{
+    margin-top: -55px;
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 100px;
+    font-style: italic;
+    color: black;
+    letter-spacing: -33px;
+    text-shadow: 3px 3px 2px red; 
+    display: inline;
+}
+
+#bm1{
+    margin-top: -104px;
+    margin-left: 23%;
+    color: black;
+    font-weight: bold;
+    font-size: 80px;
+    font-style: italic;
+    text-shadow: 3px 3px 2px red;
+}
+
+.heading{
+    width: 99.5%;
+    height: 20px;
+    border: 2px black solid;
+    border-radius: 3px;
+    margin-top: 112px;
+    margin-left: 0.5px;
+    background-color: pink;
+    position: fixed;
+}
+
+.a{
+    text-decoration: none;
+    margin-left: 5.5%;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: 900;
+}
+
+/* .hed:hover .a:not(:hover){
+    filter: blur(1px);
+    color: black;
+} */
+
+.wc{
+    background-image: url(bmhr1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 380px;
+    margin-top: 136px;
+    text-align: center;
+
+}
+
+.wcp{
+    text-align: justify;
+    margin: 0 10px 0 10px;
+    font-size: 20px;
+}
+
+/* CONTACT START */
+.ch1{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.map{
+    float: right;
+    margin-top: -180px;
+}
+
+.ch3{
+    color: darkgray;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.ch5{
+    color: darkgray;
+    font-size: 18px;
+    margin-left: 20px;
+    /* margin-top: -20px; */
+}
+
+.prem{
+    color: darkgray;
+    font-size: 18px;
+    line-height: 25px;
+    margin-left: -80%;
+}
+
+.ih1{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.loc{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+    /* margin-top: -50px; */
+}
+
+.mp{
+    color: darkgray;
+    margin-left: 10px;
+}
+
+.phone{
+    width: 110px;
+    height: 110px;
+    margin-left: 30%;
+    /* margin-left: 50px; */
+}
+
+.mail{
+    width: 110px;
+    height: 110px;
+    margin-left: 25%;
+    margin-top: -100px;
+}
+
+.ph3{
+    margin-left: 515px;
+    margin-top: -55px;
+    color: darkgray;
+}
+
+
+.fb{
+    width: 55px;
+    margin-top: -50px;
+    margin-left: 10px;
+}
+
+.ins{
+    width: 63px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.mh3{
+    margin-left: 935px;
+    margin-top: -20px;
+    color: darkgray;
+}
+
+.black{
+    width: 100%;
+    height: 25px;
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+pre{
+    color: darkgray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* CONTACT END */
